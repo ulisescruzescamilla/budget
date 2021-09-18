@@ -81,6 +81,7 @@ return [
 
     'locales' => [
         'en' => 'English',
+        'es' => 'Spanish',
         'nl' => 'Dutch',
         'dk' => 'Danish',
         'de' => 'German',
